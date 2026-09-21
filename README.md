@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="900" alt="Saikat Mitra Profile Banner"/>
+<img src="./profile-banner.svg?v=2" width="900" alt="Saikat Mitra Profile Banner"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Turning+ideas+into+real-world+projects+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A7%A0;Full+Stack+Development+%F0%9F%92%BB;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat+%F0%9F%94%A5"/>
 
 <br><br>
