@@ -1,0 +1,129 @@
+<svg width="900" height="360" viewBox="0 0 900 360"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- BLUE BACKGROUND -->
+  <rect width="900" height="360" rx="25" fill="url(#bg)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="80" cy="70" r="35" fill="#3B82F6" opacity="0.12">
+    <animate attributeName="opacity"
+             values="0.08;0.25;0.08"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="820" cy="290" r="55" fill="#60A5FA" opacity="0.10">
+    <animate attributeName="opacity"
+             values="0.05;0.20;0.05"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Hey -->
+  <text x="450" y="75"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="30"
+        font-weight="600">
+
+    Hey 👋
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- I'm -->
+  <text x="450" y="125"
+        text-anchor="middle"
+        fill="#E2E8F0"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="500">
+
+    I'm
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- NAME -->
+  <text x="450" y="190"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="52"
+        font-weight="700"
+        filter="url(#glow)">
+
+    Saikat Mitra
+
+    <animate
+      attributeName="x"
+      values="430;450;470;450;430"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+  <!-- ROLE -->
+  <text x="450" y="240"
+        text-anchor="middle"
+        fill="#BFDBFE"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        font-weight="600">
+
+    AI Developer | Full Stack Developer | B.Tech IT Student
+
+    <animate
+      attributeName="opacity"
+      values="0.5;1;0.5"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+  <!-- MOVING TEXT -->
+  <text x="900" y="305"
+        fill="#60A5FA"
+        font-family="monospace"
+        font-size="16"
+        font-weight="600">
+
+    Building AI-powered solutions • Turning ideas into real-world projects •
+    Learning • Building • Improving
+
+    <animate
+      attributeName="x"
+      from="900"
+      to="-700"
+      dur="12s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+</svg>
