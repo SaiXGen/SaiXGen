@@ -10,11 +10,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SaiXGen&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge)](https://github.com/SaiXGen)
 
-
 </div>
 
-
----
 
 ## 🧑‍💻 About Me
 
@@ -22,9 +19,10 @@ I'm **Saikat Mitra**, a B.Tech Information Technology student passionate about *
 
 I enjoy turning ideas into practical projects and exploring how technology can be used to solve real-world problems.
 
-> **Learn continuously. Build meaningful things. Keep improving. 🚀**
 
-- 🎓 B.Tech Information Technology Student
+> ****Learn continuously. Build meaningful things. Keep improving. 🚀****
+
+
 - 🤖 AI & Machine Learning Enthusiast
 - 🌐 Full Stack Developer
 - 🏆 Hackathon Participant
@@ -126,34 +124,6 @@ Creative Experiments
 
 ---
 
-# 🏆 Hackathon Mindset
-
-I enjoy taking an idea from a simple problem statement and turning it into a working prototype.
-
-```text
-                 💡 PROBLEM
-                     │
-                     ▼
-                 🔍 RESEARCH
-                     │
-                     ▼
-               🧠 IDEATION
-                     │
-                     ▼
-              🏗️ ARCHITECTURE
-                     │
-                     ▼
-               💻 DEVELOPMENT
-                     │
-                     ▼
-                🤖 AI / ML
-                     │
-                     ▼
-                🚀 PROTOTYPE
-                     │
-                     ▼
-                 🏆 HACKATHON
-```
 
 ---
 
